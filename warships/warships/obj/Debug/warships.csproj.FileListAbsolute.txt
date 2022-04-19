@@ -1,0 +1,11 @@
+D:\1Kursova1\warships\warships\obj\Debug\warships.csproj.AssemblyReference.cache
+D:\1Kursova1\warships\warships\obj\Debug\warships.Properties.Resources.resources
+D:\1Kursova1\warships\warships\obj\Debug\warships.csproj.GenerateResource.cache
+D:\1Kursova1\warships\warships\obj\Debug\warships.csproj.CoreCompileInputs.cache
+D:\1Kursova1\warships\warships\bin\Debug\warships.exe.config
+D:\1Kursova1\warships\warships\bin\Debug\warships.exe
+D:\1Kursova1\warships\warships\bin\Debug\warships.pdb
+D:\1Kursova1\warships\warships\obj\Debug\warships.exe
+D:\1Kursova1\warships\warships\obj\Debug\warships.pdb
+D:\1Kursova1\warships\warships\obj\Debug\warships.GameForm.resources
+D:\1Kursova1\warships\warships\obj\Debug\warships.CreateGameForm.resources
